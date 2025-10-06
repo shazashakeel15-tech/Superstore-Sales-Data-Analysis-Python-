@@ -76,7 +76,7 @@ Business Insights & Reporting
 
 Clone the repository:
 
-git clone https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Superstore_Sales.ipynb
+[Open Superstore Notebook](https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Superstore_Sales.ipynb)
 
 
 Open superstore_analysis.ipynb in Jupyter Notebook or Google Colab.
@@ -105,4 +105,4 @@ Create an interactive dashboard using Power BI or Streamlit.
 
 Shaza Shakeel
 Aspiring Data Analyst | Python • Power BI • SQL • Excel
-GitHub Profile https://github.com/shazashakeel15-tech
+[GitHub Profile](https://github.com/shazashakeel15-tech)
