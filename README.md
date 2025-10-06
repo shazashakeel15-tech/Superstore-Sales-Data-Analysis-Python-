@@ -75,13 +75,25 @@ Business Insights & Reporting
 
 Clone the repository:
 
-git clone https://github.com/yourusername/superstore-sales-analysis.git
+git clone https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Superstore_Sales.ipynb
 
 
 Open superstore_analysis.ipynb in Jupyter Notebook or Google Colab.
 
 Run all cells to reproduce the analysis.
 
+Dataset
+
+The Superstore Sales dataset used in this project is included in this repository.
+
+⚠️ Note: GitHub cannot preview large files in the browser, so the CSV may not display directly.
+You can download the file or clone the repository to use it in your analysis.
+
+You can then read it in Python like this:
+
+import pandas as pd
+
+df = pd.read_csv("Sample - Superstore.csv")
 ⭐ Future Improvements
 
 Predict future sales using regression or time series.
