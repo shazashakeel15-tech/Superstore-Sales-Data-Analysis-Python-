@@ -74,12 +74,7 @@ Business Insights & Reporting
 
 🚀 How to Run
 
-
-Clone the repository:  Open titanic_analysis.ipynb in Jupyter Notebook or Google Colab. Run all cells to reproduce the analysis. Or open directly in Colab:
-[Open Superstore Notebook](https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Superstore_Sales.ipynb)
-
-
-
+Clone the repository:https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Superstore_Sales.ipynb  
 
 Run all cells to reproduce the analysis.
 
