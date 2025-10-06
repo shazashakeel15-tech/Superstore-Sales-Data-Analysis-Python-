@@ -58,7 +58,7 @@ This project analyzes sales data from a fictional superstore to uncover insights
 ---
 
 ### 📈 Sample Visualizations
-![Chart](Images-SuperStore_Sales/filename.png)
+![Leastproftcities](https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Images-SuperStore_Sales/Leastproftcities2025-10-06%20180351.png)
 
 🧠 Skills Demonstrated
 
@@ -88,6 +88,8 @@ You can then read it in Python like this:
 import pandas as pd
 
 df = pd.read_csv("Sample - Superstore.csv")
+
+
 ⭐ Future Improvements
 
 Predict future sales using regression or time series.
@@ -98,4 +100,5 @@ Create an interactive dashboard using Power BI or Streamlit.
 
 Shaza Shakeel
 Aspiring Data Analyst | Python • Power BI • SQL • Excel
+
 [GitHub Profile](https://github.com/shazashakeel15-tech)
