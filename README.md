@@ -1,11 +1,15 @@
 # Superstore-Sales-Data-Analysis-Python-
 Comprehensive analysis of Superstore sales dataset in Python. Includes data cleaning, exploratory data analysis (EDA), visualizations, and actionable business insights.
 superstore-sales-analysis/
-│
+
 ├── superstore_analysis.ipynb      # Main Python notebook
+
 ├── superstore.csv                 # Dataset
+
 ├── README.md                      # Project documentation
+
 └── images/                        # Optional: charts or visualizations
+
 # 🛒 Superstore Sales Data Analysis (Python)
 
 ### 📊 Project Overview
