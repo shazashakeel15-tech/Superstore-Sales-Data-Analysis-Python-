@@ -75,7 +75,7 @@ Business Insights & Reporting
 🚀 How to Run
 
 Clone the repository:https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Superstore_Sales.ipynb  
-
+Superstore_Sales.ipynb
 Run all cells to reproduce the analysis.
 
 Dataset
