@@ -58,7 +58,7 @@ This project analyzes sales data from a fictional superstore to uncover insights
 ---
 
 ### 📈 Sample Visualizations
-![Leastproftcities](https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Images-SuperStore_Sales/Leastproftcities2025-10-06%20180351.png)
+![Leastproftcities] (https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Images-SuperStore_Sales/Leastproftcities2025-10-06%20180351.png)
 
 🧠 Skills Demonstrated
 
