@@ -2,13 +2,14 @@
 Comprehensive analysis of Superstore sales dataset in Python. Includes data cleaning, exploratory data analysis (EDA), visualizations, and actionable business insights.
 superstore-sales-analysis/
 
-├── superstore_analysis.ipynb      # Main Python notebook
+Images-SuperStore_Sales/
 
-├── superstore.csv                 # Dataset
+README.md
 
-├── README.md                      # Project documentation
+Sample - Superstore.csv
 
-└── images/                        # charts or visualizations
+Superstore_Sales.ipynb
+
 
 # 🛒 Superstore Sales Data Analysis (Python)
 
@@ -57,10 +58,7 @@ This project analyzes sales data from a fictional superstore to uncover insights
 ---
 
 ### 📈 Sample Visualizations
-```markdown
-[![Category vs Profit](https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Images-SuperStore_Sales/Leastproftcities2025-10-06%20180351.png)]
-![Least Profitable Cities]https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Images-SuperStore_Sales/Leastproftcities2025-10-06%20180351.png
-![Sales by region]https://github.com/shazashakeel15-tech/Superstore-Sales-Data-Analysis-Python-/blob/main/Images-SuperStore_Sales/Salesbyregion%202025-10-06%20180445.png
+![Chart](Images-SuperStore_Sales/filename.png)
 
 🧠 Skills Demonstrated
 
