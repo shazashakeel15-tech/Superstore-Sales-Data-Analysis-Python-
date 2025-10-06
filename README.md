@@ -104,4 +104,4 @@ Create an interactive dashboard using Power BI or Streamlit.
 
 Shaza Shakeel
 Aspiring Data Analyst | Python • Power BI • SQL • Excel
-GitHub Profile 
+GitHub Profile https://github.com/shazashakeel15-tech
